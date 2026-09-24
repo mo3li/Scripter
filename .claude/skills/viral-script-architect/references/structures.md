@@ -15,7 +15,7 @@ Pick the structure from the idea, not the other way around.
 | G. Question → Investigation → Answer | Curiosity-driven explainers | Investigation needs escalating clues, not filler |
 | H. Open Loop → Progressive Reveal → Payoff | High-curiosity shorts | Reveal in steps; each step is a mini-payoff |
 | I. List → Escalation → Strongest Point → Payoff | Tips/lists | Order from good to best; save the best for last but tease it early |
-| J. Yapping Narrative | Opinion, personal brand, talking head | Strategy stays underneath: hook, loop, point, payoff |
+| J. Yapping Narrative: Hook (mid-thought) → Gap (did / expected / happened) → Confession → One-line Lesson → Close the Loop | Opinion, personal brand, talking head, lessons learned | Confession must be real; lesson is one sentence; ending calls back to the hook. See `yapping-egyptian.md` |
 
 ## Short-form skeleton (15–60s)
 

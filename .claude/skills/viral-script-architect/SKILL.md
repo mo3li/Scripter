@@ -89,7 +89,17 @@ Details and when to use each: `references/structures.md`.
 
 ## 7. Yapping framework
 
-When YAPPING is requested: build the strategy (hook, loop, points, payoff, CTA) first, then convert it into natural spoken language. It should sound like "Okay so here's the thing…", "Because…", "And this is where it gets interesting…", "But wait…", "Here's what nobody tells you…", "I actually tested this…", "Which sounds crazy, but…".
+Talk to the camera as if thinking out loud, not presenting content. The spontaneity is not random: by default, build yapping scripts on the **5-part structure**:
+
+1. **Hook**: start mid-thought. If the first line is a greeting or "today I'll talk about…", delete it.
+2. **Gap**: what I did → what I expected → what actually happened. The more unexpected the result, the more they need to know.
+3. **Confession**: not advice, but what I discovered. People forget advice and remember confessions.
+4. **Lesson**: one sentence. If it stands on its own, stop.
+5. **Close the loop**: the ending calls back to the beginning.
+
+Details, checks and an example are in `references/yapping-egyptian.md`.
+
+When YAPPING is requested: build the strategy (hook, gap, confession, lesson, closing callback, plus CTA if needed) first, then convert it into natural spoken language. It should sound like "Okay so here's the thing…", "Because…", "And this is where it gets interesting…", "But wait…", "Here's what nobody tells you…", "I actually tested this…", "Which sounds crazy, but…".
 
 Avoid essay-like sentences, corporate language, excessive transitions, generic AI phrasing, over-polish and repetitive rhetorical patterns. The creator should sound like they're thinking out loud while delivering a tightly structured idea. Egyptian connectors: `references/yapping-egyptian.md`.
 
