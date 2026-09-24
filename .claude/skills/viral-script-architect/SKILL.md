@@ -57,6 +57,8 @@ Don't force all of them in. Use only what strengthens this idea. If a critical i
 The first 1–3 seconds decide the video. Hook mechanisms: curiosity, contrarian statement, unexpected claim, specific result, pattern interrupt, strong opinion, open loop, confession, mistake, warning, prediction, challenge, question, story beginning, demonstration, proof-first, authority, comparison, "nobody tells you this", "I was wrong about…", "here's why…", "stop doing…", "if you're trying to…", "the reason you…", "I tested…", "I studied…", "this changed…".
 
 Rules:
+- **Always write your own hook.** Never reuse the source's opening line as-is; treat it as raw material. Pick a deliberate mechanism (fear/warning, negative, curiosity, contrast, open loop…) and build the strongest legitimate version.
+- After the script, give 2 alternative hooks, each labeled with its mechanism, one line each.
 - The hook must create a **genuine** reason to keep watching, and the video must pay it off.
 - Avoid clichés when they don't fit.
 - The spoken hook, on-screen text and first visual should work together, not repeat each other word for word.
@@ -212,6 +214,8 @@ VISUAL: (only if useful)
 ```
 
 **Default length: short-form scripts are 30 seconds max** (≈ 60–70 spoken words in Egyptian Arabic) unless the user asks for a different length. If the source has too much, compress (§10): tighten every point to one line, merge points, or cut the weakest ones and tell the user in one line. Never exceed 30s just to fit everything in.
+
+**CTA is mandatory** in every short-form script, inside the code block: follow, like, save, share, comment a keyword, or DM ("ابعتلي على الخاص"), matched to the objective (§9). One primary action, optionally plus a follow. Never promise something in the CTA (a checklist, a free review) the user didn't confirm they offer.
 
 **Delivery:** put each final script in its own code block so the user can copy it in one go, hook included. Keep everything outside the blocks short: duration, and at most 2–3 one-line notes (e.g. fact corrections). No long analysis unless asked.
 
