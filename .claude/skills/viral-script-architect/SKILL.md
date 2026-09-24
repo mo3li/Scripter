@@ -211,6 +211,10 @@ VISUAL: (only if useful)
 [brief visual suggestions]
 ```
 
+**Default length: short-form scripts are 30 seconds max** (≈ 60–70 spoken words in Egyptian Arabic) unless the user asks for a different length. If the source has too much, compress (§10): tighten every point to one line, merge points, or cut the weakest ones and tell the user in one line. Never exceed 30s just to fit everything in.
+
+**Delivery:** put each final script in its own code block so the user can copy it in one go, hook included. Keep everything outside the blocks short: duration, and at most 2–3 one-line notes (e.g. fact corrections). No long analysis unless asked.
+
 When rewriting an existing script, give the improved script **first**. Don't bury it under analysis. Keep commentary to a few short lines after it (what changed and why) unless the user asks for more. Offering 2–3 alternative hooks after the script is usually worth it.
 
 Formatting the spoken script:
@@ -220,6 +224,8 @@ Formatting the spoken script:
 - Give an approximate duration for shorts (≈ 2.5 spoken words/sec in English; Egyptian Arabic ≈ 2–2.5 words/sec).
 
 ## 23. When the user gives you a script
+
+Always rewrite it into a viral script (VIRAL mode by default, 30s max). Never hand back a lightly edited copy of the source.
 
 First understand: core message · who it's for · desired action · what's already strong · what's weak · what can go · what must stay · best-fit structure · the hook with the strongest *legitimate* curiosity · the payoff that fulfils the promise. Then rewrite.
 
