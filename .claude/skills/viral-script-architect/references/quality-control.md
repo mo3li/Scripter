@@ -34,7 +34,7 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Formal Arabic where Egyptian was expected
 - [ ] More than one primary CTA in a short
 - [ ] Stage directions not in [brackets]
-- [ ] Script length doesn't match the requested duration (default for short-form: 30s max, ≈ 60–70 Egyptian Arabic words)
+- [ ] Script length doesn't match the requested duration (new short-form: 30s max; rewrite of an existing script: keep its original length and points)
 - [ ] The user's original meaning or key point was changed or lost
 
 ## Critique format (when the user asks for feedback on their script)
