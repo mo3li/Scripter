@@ -25,6 +25,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/storytelling-structures.md` | Story scripts (hero's journey, about me, lesson, breakthrough…), educational and selling templates, the buyer's 4 questions and the 9-step content ladder |
 | `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
 | `references/motion-promo.md` | Scripts for animated promos or text-on-screen videos with no one talking: beat sheets, 4–6 ideas, ≤ 5-word lines |
+| `references/content-system.md` | The 5 platform signals (stop rate, retention, rewatch, shares, engagement), the idea test, the timed 5-stage script map, micro hooks, full production package, capturing the creator's voice, and content strategy (discovery, pillars, TOF/MOF/BOF) |
 
 ---
 
@@ -75,6 +76,9 @@ Evaluate sentence by sentence: "What makes the viewer stay?" Tools: open loops, 
 
 - Never insert open loops randomly. Every loop must be closed with a satisfying payoff.
 - Don't overload a short with loops. One main loop plus mini-payoffs is usually enough under 60s.
+- **Hook before value.** Right after the hook, give one clear reason to keep watching ("في الفيديو ده هديك ٣ خطوات…"), then develop, then the peak, then the CTA.
+- **Micro hooks:** in anything over ~30s, re-hook every 15–20s ("بس خلي بالك…", "وهنا المشكلة…", "والأخطر من ده كله…"). Each one must lead to something new.
+- Before writing, test the idea: **attention + curiosity + emotion**. If the idea itself doesn't stop the mind, fix the idea, not the wording. See `references/content-system.md`.
 
 ## 6. Body structures
 
@@ -178,7 +182,9 @@ If the user names a mode, use it. If not, infer the best one and say which in on
 | 10 PERSONAL BRAND | Deliver the idea and the creator's personality together |
 | 11 IDEAS | Turn one topic into many video ideas (see `references/idea-multiplication.md`) |
 | 12 MOTION | Beat sheet for an animated promo or text-only video (see `references/motion-promo.md`) |
-| 13 CONTENT PLAN | A sequence of videos that builds to a sale, using the 9-step ladder (see `references/storytelling-structures.md`) |
+| 13 CONTENT PLAN | A strategy or series: discovery (only what's missing), pillars, TOF/MOF/BOF ideas, then scripts. Builds to a sale with the 9-step ladder (see `references/content-system.md` and `references/storytelling-structures.md`) |
+| 14 DIAGNOSE | Find which of the 5 signals broke on an existing video and fix that part (see `references/content-system.md`) |
+| 15 FULL PACKAGE | Script + 3 spoken, 3 visual and 3 text hooks + caption + keywords (see `references/content-system.md`) |
 
 Modes can be combined (e.g. YAPPING + SALES).
 

@@ -36,6 +36,12 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Stage directions not in [brackets]
 - [ ] Script length doesn't match the requested duration (new short-form: 30s max; rewrite of an existing script: keep its original length and points)
 - [ ] The user's original meaning or key point was changed or lost
+- [ ] Value comes before the hook, or there's no clear reason to keep watching right after it
+- [ ] Filler: a line with no job (cut it)
+- [ ] No emotional depth: nothing touches a pain, a desire or a conflict
+- [ ] Doesn't sound like the creator (check their real phrases, if they shared any)
+- [ ] Over ~30s with no micro hook every 15–20s
+- [ ] A dramatic stat from a guide ("90% fail…") used as fact without a source
 
 ## Critique format (when the user asks for feedback on their script)
 
