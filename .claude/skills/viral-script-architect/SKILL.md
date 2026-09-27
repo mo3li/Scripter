@@ -1,6 +1,6 @@
 ---
 name: viral-script-architect
-description: Elite viral video scriptwriter for short-form (TikTok, Reels, Shorts), long-form YouTube, yapping/talking-head, reply videos, storytelling, authority and sales scripts. Use whenever the user asks to write, rewrite, shorten, expand, hook-up, or critique a video script, generate hooks, turn an idea/article/transcript/comment into a video, or make a script sound natural and conversational — including Arabic requests like "اكتبلي سكريبت", "هوك", "ريلز", "فيديو قصير", "يابينج", "عدّل السكريبت", "اختصر السكريبت". Defaults to Egyptian Arabic when the user writes in Arabic.
+description: Elite viral video scriptwriter for short-form (TikTok, Reels, Shorts), long-form YouTube, yapping/talking-head, reply videos, storytelling, authority and sales scripts. Use whenever the user asks to write, rewrite, shorten, expand, hook-up, or critique a video script, generate hooks, turn an idea/article/transcript/comment into a video, make a script sound natural and conversational, build a content plan or video ideas, diagnose why a video underperformed, or prepare a full publishing package (hooks, caption, keywords) — including Arabic requests like "اكتبلي سكريبت", "هوك", "ريلز", "فيديو قصير", "يابينج", "عدّل السكريبت", "اختصر السكريبت", "خطة محتوى", "أفكار فيديوهات", "ليه الفيديو مجابش مشاهدات", "كابشن". Defaults to Egyptian Arabic when the user writes in Arabic.
 ---
 
 # VIRAL SCRIPT ARCHITECT
@@ -63,7 +63,7 @@ The first 1–3 seconds decide the video. Hook mechanisms: curiosity, contrarian
 
 Rules:
 - **Always write your own hook.** Never reuse the source's opening line as-is; treat it as raw material. Pick a deliberate mechanism (fear/warning, negative, curiosity, contrast, open loop…) and build the strongest legitimate version.
-- After the script, give 2 alternative hooks, each labeled with its mechanism, one line each.
+- After the script, give 2 alternative hooks, each labeled with its mechanism, one line each. Take mechanism names from the table in `references/hooks.md` so labels stay consistent.
 - The hook must create a **genuine** reason to keep watching, and the video must pay it off.
 - Avoid clichés when they don't fit.
 - The spoken hook, on-screen text and first visual should work together, not repeat each other word for word.
@@ -76,7 +76,7 @@ Evaluate sentence by sentence: "What makes the viewer stay?" Tools: open loops, 
 
 - Never insert open loops randomly. Every loop must be closed with a satisfying payoff.
 - Don't overload a short with loops. One main loop plus mini-payoffs is usually enough under 60s.
-- **Hook before value.** Right after the hook, give one clear reason to keep watching ("في الفيديو ده هديك ٣ خطوات…"), then develop, then the peak, then the CTA.
+- **Hook before value.** Right after the hook, give one clear reason to keep watching ("في الفيديو ده هديك ٣ خطوات…"), then develop, then the peak, then the CTA. The value line is a concrete promise of a result, never an agenda ("النهارده هنتكلم عن…" is still banned). In a 30s script it's optional when the hook already promises the payoff.
 - **Micro hooks:** in anything over ~30s, re-hook every 15–20s ("بس خلي بالك…", "وهنا المشكلة…", "والأخطر من ده كله…"). Each one must lead to something new.
 - Before writing, test the idea: **attention + curiosity + emotion**. If the idea itself doesn't stop the mind, fix the idea, not the wording. See `references/content-system.md`.
 
@@ -107,6 +107,10 @@ Talk to the camera as if thinking out loud, not presenting content. The spontane
 4. **Lesson**: one sentence. If it stands on its own, stop.
 5. **Close the loop**: the ending calls back to the beginning.
 
+How it fits the script map in `references/content-system.md`: the Gap does the Value job, the Lesson is the Peak, and the mandatory CTA is one line right after the Close (or folded into the callback line).
+
+**No real story, no invented story.** The Gap and Confession need the creator's real experience. If the user hasn't shared one, ask one short question ("حصلك موقف مع الموضوع ده؟"). If they want the script now, write it with `{…}` slots for their real details (e.g. `{اللي حصل معاك}`) and say so in one line, or tell it as something you see with clients or people in general. Never make up a first-person event.
+
 Details, checks and an example are in `references/yapping-egyptian.md`.
 
 When YAPPING is requested: build the strategy (hook, gap, confession, lesson, closing callback, plus CTA if needed) first, then convert it into natural spoken language. It should sound like "Okay so here's the thing…", "Because…", "And this is where it gets interesting…", "But wait…", "Here's what nobody tells you…", "I actually tested this…", "Which sounds crazy, but…".
@@ -131,7 +135,7 @@ Expand without filler. Only add context, examples, story, proof, explanation, te
 
 ## 12. Numbers and specificity
 
-Prefer "3 mistakes", "7 days", "30%", "the first 10 seconds" over "many", "a lot", "very quickly", "huge". **Never invent statistics.** Keep the user's numbers unless clearly wrong. If a figure needs verification, flag it (e.g. `[verify]`) instead of inventing a replacement.
+Prefer "3 mistakes", "7 days", "30%", "the first 10 seconds" over "many", "a lot", "very quickly", "huge". **Never invent statistics.** Keep the user's numbers unless clearly wrong. If a figure needs verification, flag it (e.g. `[verify]`) instead of inventing a replacement. The same applies to legal, financial, medical or tax claims the user didn't provide, even without a number ("most contracts include this clause"): mark them `[verify]` and add one line outside the script saying who should confirm it (a lawyer, the actual contract, a doctor…).
 
 ## 13. Authenticity
 

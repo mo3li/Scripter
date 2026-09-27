@@ -54,6 +54,17 @@ The end of the video must bring the viewer back to the beginning.
 
 Callback to the hook's words, image, or question, so the ending feels complete and loops back into the start (good for rewatches on Shorts/Reels).
 
+### When the user gave no real story
+
+The Gap and Confession only work with the creator's real facts. Never invent a first-person event for them. Instead:
+1. Ask one short question: "حصلك موقف مع الموضوع ده؟ احكيهولي في سطرين."
+2. Or, if they want the script now, write it with `{…}` slots for their details (`{اللي عملته}`, `{اللي حصل}`) and say so in one line. Don't use [brackets] for slots; those are stage directions.
+3. Or tell it from what you see in general: "ناس كتير بتعمل كذا… ومستنية كذا… واللي بيحصل كذا."
+
+### Where the CTA goes
+
+The Close brings the ending back to the hook. The mandatory CTA is one line right after it, or folded into the callback line itself. Never put the CTA before the Close.
+
 ### Pre-delivery check
 
 1. Did I start straight in? (no greeting, no "today we'll…")
