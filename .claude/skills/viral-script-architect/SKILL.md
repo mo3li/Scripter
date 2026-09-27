@@ -76,7 +76,7 @@ Evaluate sentence by sentence: "What makes the viewer stay?" Tools: open loops, 
 
 - Never insert open loops randomly. Every loop must be closed with a satisfying payoff.
 - Don't overload a short with loops. One main loop plus mini-payoffs is usually enough under 60s.
-- **Hook before value.** Right after the hook, give one clear reason to keep watching ("في الفيديو ده هديك ٣ خطوات…"), then develop, then the peak, then the CTA. The value line is a concrete promise of a result, never an agenda ("النهارده هنتكلم عن…" is still banned). In a 30s script it's optional when the hook already promises the payoff.
+- **Hook before value.** Right after the hook, give one clear reason to keep watching ("في الفيديو ده هديك ٣ خطوات…"), then develop, then the peak, then the CTA. The value line is a concrete promise of a result, never an agenda ("النهارده هنتكلم عن…" is still banned). In a very short script it's optional when the hook already promises the payoff.
 - **Micro hooks:** in anything over ~30s, re-hook every 15–20s ("بس خلي بالك…", "وهنا المشكلة…", "والأخطر من ده كله…"). Each one must lead to something new.
 - Before writing, test the idea: **attention + curiosity + emotion**. If the idea itself doesn't stop the mind, fix the idea, not the wording. See `references/content-system.md`.
 
@@ -231,9 +231,11 @@ VISUAL: (only if useful)
 ```
 
 **Length:**
-- **New script from an idea, post or short text:** 30 seconds max (≈ 60–70 spoken words in Egyptian Arabic) unless the user asks for a different length.
-- **Rewriting an existing video script or transcript:** keep roughly the original's length and every point it makes. Never force it down to 30s; cutting it would lose meaning. Tighten wording only.
-- Shorten a script below its natural length only when the user asks (SHORTEN mode, §10).
+There is no fixed duration or cap. The rule is: **as short as possible without losing any meaning or value.**
+- **Rewriting a script the user sends:** tighten it to the shortest length that still carries every point and all its value. Cut only filler, repetition and lines that add nothing, or swap a long line for a shorter one that says the same thing. This is tightening and regenerating the wording, not summarizing or deleting ideas. A 3-minute script might become 2:30, 2:00 or 1:30 depending on how much of it is filler. If everything in it carries value, keep the original length. Never aim for a target duration, and never cut meaning to hit one.
+- **New script from an idea, post or short text:** as long as the idea needs, and no longer. Don't pad a small idea and don't squeeze a big one.
+- If the user asks for a specific duration, follow it (SHORTEN mode, §10), and tell them if something important had to go.
+- State the approximate duration of the result, and when rewriting, roughly how much shorter it got.
 
 **CTA is mandatory** in every short-form script, inside the code block: follow, like, save, share, comment a keyword, or DM ("ابعتلي على الخاص"), matched to the objective (§9). One primary action, optionally plus a follow. Never promise something in the CTA (a checklist, a free review) the user didn't confirm they offer.
 
@@ -253,7 +255,7 @@ Formatting the spoken script:
 
 ## 23. When the user gives you a script
 
-Always rewrite it into a viral script (VIRAL mode by default), keeping the original's length and all its points. Never hand back a lightly edited copy of the source.
+Always rewrite it into a viral script (VIRAL mode by default), keeping all its points and tightening it only as far as it goes without losing meaning (see Length in §22). Never hand back a lightly edited copy of the source.
 
 First understand: core message · who it's for · desired action · what's already strong · what's weak · what can go · what must stay · best-fit structure · the hook with the strongest *legitimate* curiosity · the payoff that fulfils the promise. Then rewrite.
 

@@ -34,7 +34,7 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Formal Arabic where Egyptian was expected
 - [ ] More than one primary CTA in a short
 - [ ] Stage directions not in [brackets]
-- [ ] Script length doesn't match the requested duration (new short-form: 30s max; rewrite of an existing script: keep its original length and points)
+- [ ] Script length doesn't match the requested duration (or, with no requested duration, is longer than it needs to be, or was cut so short it lost a point or its value)
 - [ ] The user's original meaning or key point was changed or lost
 - [ ] Value comes before the hook, or there's no clear reason to keep watching right after it
 - [ ] Filler: a line with no job (cut it)

@@ -58,20 +58,22 @@ Other types to rotate: debate, myth-busting, question, desire, problem. More in 
 
 ## 4. The script map (5 stages in order)
 
-| # | Stage | Job | Timing in a ~60s video | Timing in a 30s video |
-|---|---|---|---|---|
-| 1 | **Hook** | Stop the scroll | 0–3/6s | 0–3s |
-| 2 | **Value** | Give a clear reason to keep watching | 3–10/13s | 3–7s |
-| 3 | **Development** | Expand the idea with explanation, numbers, examples or a story | 10–40s | 7–22s |
-| 4 | **Peak / payoff** | The strongest point: the surprise, the real secret, the key takeaway | last ~15s | 22–27s |
-| 5 | **CTA** | One clear action | last 3–5s | 27–30s |
+There is no fixed length; the video is as long as the idea needs. The timings below are an example for a ~60s video, not a target.
+
+| # | Stage | Job | Example timing in a ~60s video |
+|---|---|---|---|
+| 1 | **Hook** | Stop the scroll | 0–3/6s |
+| 2 | **Value** | Give a clear reason to keep watching | 3–10/13s |
+| 3 | **Development** | Expand the idea with explanation, numbers, examples or a story | 10–40s |
+| 4 | **Peak / payoff** | The strongest point: the surprise, the real secret, the key takeaway | last ~15s |
+| 5 | **CTA** | One clear action | last 3–5s |
 
 Examples by stage:
 - **Value line**: "في الفيديو ده هديك ٣ خطوات عملية…", "بعدها هتعرف الطريقة الصح خطوة بخطوة", "آخر نقطة هي أهمها".
 - **Payoff openers**: "المفاجأة بقى…", "السر الحقيقي هو…", "الخلاصة…".
 
 Rules:
-- **The value line is a promise, not an agenda.** "هديك ٣ خطوات…" works; "النهارده هنتكلم عن…" doesn't. In a 30s script, skip it when the hook already promises the payoff.
+- **The value line is a promise, not an agenda.** "هديك ٣ خطوات…" works; "النهارده هنتكلم عن…" doesn't. In a very short script, skip it when the hook already promises the payoff.
 - **Hook before value, always.** Leading with the value and hooking late makes retention drop fast. Hook first, then value, keeps it rising.
 - **The best script is the clearest, not the longest.** Clarity = higher retention.
 - Strong script = clarity + logical flow + emotion + a peak moment + one clear CTA. If any stage is weak, retention starts dropping there.

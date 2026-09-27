@@ -17,20 +17,18 @@ Pick the structure from the idea, not the other way around.
 | I. List → Escalation → Strongest Point → Payoff | Tips/lists | Order from good to best; save the best for last but tease it early |
 | J. Yapping Narrative: Hook (mid-thought) → Gap (did / expected / happened) → Confession → One-line Lesson → Close the Loop | Opinion, personal brand, talking head, lessons learned | Confession must be real; lesson is one sentence; ending calls back to the hook. See `yapping-egyptian.md` |
 
-## Short-form skeleton (default 30s)
+## Short-form skeleton
 
-New scripts are 30 seconds max unless the user asks for another length (see SKILL.md). Timings match the script map in `content-system.md`.
+There is no fixed duration: the script is as short as it can be without losing meaning or value (see Length in SKILL.md). The order stays the same at any length.
 
 ```
-0–3s    HOOK        gap + viewer selection
-3–7s    CONTEXT     just enough to understand the stakes (often skip)
-7–22s   BODY        chosen structure; a new beat every 3–6s
-        MINI-PAYOFFS keep rewarding attention
-22–27s  PAYOFF      close the main loop, clearly
-27–30s  CTA         one action, tied to the value just delivered
+first 1–3s   HOOK        gap + viewer selection
+next few s   CONTEXT     just enough to understand the stakes (often skip)
+most of it   BODY        chosen structure; a new beat every 3–6s
+                         MINI-PAYOFFS keep rewarding attention
+near the end PAYOFF      close the main loop, clearly
+last 3–5s    CTA         one action, tied to the value just delivered
 ```
-
-For a longer short (45–60s), only when the user asks or when rewriting a longer original: body runs to ~45s, payoff ~45–55s, CTA in the last 3–5s.
 
 Rule of thumb: if a line doesn't add new information, a new question, or a new feeling, cut it.
 
