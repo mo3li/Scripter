@@ -28,6 +28,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
 | `references/motion-promo.md` | Scripts for animated promos or text-on-screen videos with no one talking: beat sheets, 4–6 ideas, ≤ 5-word lines |
 | `references/content-system.md` | The 5 platform signals (stop rate, retention, rewatch, shares, engagement), the idea test, the timed 5-stage script map, micro hooks, full production package, capturing the creator's voice, and content strategy (discovery, pillars, TOF/MOF/BOF) |
+| `references/writing-disciplines.md` | Craft by discipline: marketing (sell the feeling, 6 buying triggers, CTA by product type, value equation, persuasion triad, language by segment), comedy (idea → misdirection → punch), drama (show don't tell), news-style (inverted pyramid, headline test), the 5 angles for any topic, and literary depth |
 
 ---
 
@@ -199,6 +200,7 @@ If the user names a mode, use it. If not, infer the best one and say which in on
 | 14 DIAGNOSE | Find which of the 5 signals broke on an existing video and fix that part (see `references/content-system.md`) |
 | 15 FULL PACKAGE | Script + 3 spoken, 3 visual and 3 text hooks + caption + keywords (see `references/content-system.md`) |
 | 16 REGENERATE | Adapt a proven script into our style: keep its hook mechanism, structure, order and every beat; rewrite the language into natural spoken Egyptian; at most one small addition. New angles or endings only as optional alternatives. Default when the user sends a script or content to transform (see §23) |
+| 17 COMEDY | Funny script built as idea → misdirection → punch → bigger punch (see `references/writing-disciplines.md`) |
 
 Modes can be combined (e.g. YAPPING + SALES).
 
