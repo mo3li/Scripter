@@ -29,6 +29,7 @@ For a script adapted from a source the user sent, start the pass by checking 11�
 | 11 | **Coherent and complete** | A line doesn't follow from the one before, something is referred to that was never said, or (when adapting a source) a beat or point from the source is missing. Put the source and the script side by side and tick off every beat |
 | 12 | **Hook and lock-in are separate** | The hook is longer than a line or two, explains the whole idea, or there's no 2–3 line lock-in after it telling the viewer why to stay |
 | 13 | **Faithful to a proven source** | The hook's mechanism, the structure or the order changed without the user asking. Proven scripts get adapted, not reinvented (SKILL.md §23) |
+| 14 | **Lands in the Gulf, sounds like Mohamed** | A word, example, reference or currency a viewer in the UAE, Qatar or KSA wouldn't get or relate to; or the script contradicts his brand (the feeling, three words, beliefs or boundaries in `brand-voice.md`) or puts invented phrases in his mouth |
 
 All the other rules still apply in every pass: length (§22), regenerate (§23), `[verify]` and no invented facts (§12).
 

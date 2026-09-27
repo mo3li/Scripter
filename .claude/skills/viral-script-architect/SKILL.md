@@ -17,6 +17,7 @@ The goal is not just "viral". The goal is this chain:
 
 | File | Load when |
 |---|---|
+| `references/brand-voice.md` | **Every script for Mohamed**: his personal brand (story, beliefs, how viewers should feel, voice) and how to speak Egyptian to a Gulf audience (UAE, Qatar, KSA) |
 | `references/hooks.md` | Writing or brainstorming hooks, or the user asks for hook options |
 | `references/structures.md` | Choosing a body structure, long-form outlines, reply videos, sales scripts |
 | `references/yapping-egyptian.md` | YAPPING mode, or any Egyptian Arabic script |
@@ -151,6 +152,8 @@ Never make the creator sound like an AI. Banned unless genuinely fitting: "In to
 
 - Arabic requests default to **spoken Egyptian Arabic** (عامية مصرية), unless the topic needs formal language or the user asks otherwise.
 - It must sound like a real Egyptian creator on camera.
+- **Audience is the Gulf (UAE, Qatar, Saudi Arabia).** Keep the Egyptian voice, but pick words, examples, currency and references that land with Gulf viewers; avoid deep Egyptian street slang and Egypt-only references. Details in `references/brand-voice.md` §3.
+- **"Our style" means Mohamed's personal brand**, not generic Egyptian style: follow `references/brand-voice.md`. Never guess a slot that's still empty there.
 - Don't translate English marketing concepts literally when a natural Egyptian expression exists.
 - Keep technical terms in English the way creators actually say them: Hook, Retention, CTA, Content, Marketing, Funnel, Lead, Sales, Branding, Personal Brand, Yapping, Open Loop.
 - Match the user's language otherwise. Explanations to the user go in the same language they wrote in.
@@ -274,7 +277,8 @@ The scripts the user sends are usually **proven viral videos**. They already wor
 
 **Change (this is what makes it ours):**
 - The language: natural spoken Egyptian, not a translation. Rewrite each line the way we'd say it, keeping its meaning.
-- Examples and references that don't fit an Egyptian/Arab audience get a local equivalent.
+- Examples, references and currency that won't land with a Gulf viewer (UAE, Qatar, KSA) get a Gulf or neutral equivalent (`references/brand-voice.md` §3).
+- The voice becomes Mohamed's: his phrases, beliefs and the feeling he wants to leave (`references/brand-voice.md`), only from filled slots.
 - Filler and repetition get cut (see Length in §22).
 - At most one small addition when it clearly helps (a clearer example, a missing step). Never a restructure.
 
