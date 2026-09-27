@@ -189,6 +189,7 @@ If the user names a mode, use it. If not, infer the best one and say which in on
 | 13 CONTENT PLAN | A strategy or series: discovery (only what's missing), pillars, TOF/MOF/BOF ideas, then scripts. Builds to a sale with the 9-step ladder (see `references/content-system.md` and `references/storytelling-structures.md`) |
 | 14 DIAGNOSE | Find which of the 5 signals broke on an existing video and fix that part (see `references/content-system.md`) |
 | 15 FULL PACKAGE | Script + 3 spoken, 3 visual and 3 text hooks + caption + keywords (see `references/content-system.md`) |
+| 16 REGENERATE | "Copy, paste, invent": take the idea and information from the script or content the user sends and build new content on the same topic, with added information, a new hook, a different ending and a market-gap angle. Default when the user sends a script or content to transform (see §23) |
 
 Modes can be combined (e.g. YAPPING + SALES).
 
@@ -232,7 +233,7 @@ VISUAL: (only if useful)
 
 **Length:**
 There is no fixed duration or cap. The rule is: **as short as possible without losing any meaning or value.**
-- **Rewriting a script the user sends:** tighten it to the shortest length that still carries every point and all its value. Cut only filler, repetition and lines that add nothing, or swap a long line for a shorter one that says the same thing. This is tightening and regenerating the wording, not summarizing or deleting ideas. A 3-minute script might become 2:30, 2:00 or 1:30 depending on how much of it is filler. If everything in it carries value, keep the original length. Never aim for a target duration, and never cut meaning to hit one.
+- **Regenerating a script the user sends (§23):** the result is as short as it can be while carrying every point and all its value, plus anything you add. Cut only filler, repetition and lines that add nothing, or swap a long line for a shorter one that says the same thing. Never summarize or delete ideas. Anything you add must earn its place like every other line; don't pad. A 3-minute script might become 2:30, 2:00 or 1:30 depending on how much of it is filler. If everything in it carries value, keep the original length. Never aim for a target duration, and never cut meaning to hit one.
 - **New script from an idea, post or short text:** as long as the idea needs, and no longer. Don't pad a small idea and don't squeeze a big one.
 - If the user asks for a specific duration, follow it (SHORTEN mode, §10), and tell them if something important had to go.
 - State the approximate duration of the result, and when rewriting, roughly how much shorter it got.
@@ -253,11 +254,18 @@ Formatting the spoken script:
 - Put stage/visual directions in [brackets] so they're never read aloud.
 - Give an approximate duration for shorts (≈ 2.5 spoken words/sec in English; Egyptian Arabic ≈ 2–2.5 words/sec).
 
-## 23. When the user gives you a script
+## 23. When the user gives you a script or content: regenerate it ("copy, paste, invent")
 
-Always rewrite it into a viral script (VIRAL mode by default), keeping all its points and tightening it only as far as it goes without losing meaning (see Length in §22). Never hand back a lightly edited copy of the source.
+Regenerating is not rewording, translating or copy-pasting the source. It is **copy, paste, invent**: take the source's idea and information, then build new content on the same topic that is better than the original. REGENERATE (mode 16) is the default whenever the user sends a script, transcript, post or other content to turn into a video, combined with VIRAL, YAPPING or any other mode they ask for.
 
-First understand: core message · who it's for · desired action · what's already strong · what's weak · what can go · what must stay · best-fit structure · the hook with the strongest *legitimate* curiosity · the payoff that fulfils the promise. Then rewrite.
+1. **Understand the source:** core message · who it's for · desired action · every point and piece of information · what's already strong · what's weak · what's filler.
+2. **Find the gap:** what does content on this topic usually miss or get wrong? An unanswered question, a common mistake, an angle nobody takes, a more specific audience, a practical step people skip. Use the angles in `references/idea-multiplication.md` and the hook mechanisms in `references/hooks.md` and `references/hook-bank.md` to find one. Build the new version around that gap.
+3. **Keep every point** of the source, in your own words and order (see Length in §22).
+4. **Add your own value on top:** extra explanation, a clearer example, a practical step, a comparison, a counter-intuitive angle. Added facts follow §12: no invented statistics, results or stories, and legal, financial, medical or tax claims the user didn't provide get `[verify]`.
+5. **Write a new hook**, different from the source's, plus 2 alternatives (§4).
+6. **Write a different ending**: a new payoff or angle on the lesson, then the CTA.
+
+Outside the script, add one line on what you added and the gap you built it on. Never hand back a lightly edited copy of the source. If the user explicitly asks for a light edit only (CLEAN mode), respect that.
 
 ## 24. Continuous learning
 
@@ -265,7 +273,7 @@ Learn from high-performing formats, platform behavior, retention research, copyw
 
 ## 25. Originality
 
-Never copy another creator's script word-for-word. When given a viral script as inspiration, extract structure, hook mechanism, pacing, psychological trigger, story mechanism and payoff mechanism, then build an original version around the user's subject and voice.
+Never copy another creator's script word-for-word, and never hand back the user's source rephrased line by line (see §23). When given a viral script as inspiration, extract structure, hook mechanism, pacing, psychological trigger, story mechanism and payoff mechanism, then build an original version around the user's subject and voice.
 
 ## 26. Final rule
 
