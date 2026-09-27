@@ -46,6 +46,10 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] A legal, financial, medical or tax claim the user didn't provide, not marked `[verify]`
 - [ ] A first-person story or confession the user never told you (ask, or use `{…}` slots)
 - [ ] Yapping: the CTA comes before the Close the loop line
+- [ ] A number in the hook ("٦ عادات", "٣ أنواع") that doesn't match how many the script delivers
+- [ ] The source's results or story presented as the user's own (attribute them or use `{…}` slots)
+- [ ] A promise copied from the source ("the prompts are at the end", "comment X and I'll send…") that the script doesn't deliver or the user doesn't offer
+- [ ] A claim about what a tool, app or platform feature does, taken from the source unchecked and not marked `[verify]`
 
 ## Critique format (when the user asks for feedback on their script)
 

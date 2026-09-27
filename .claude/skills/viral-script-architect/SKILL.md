@@ -137,6 +137,10 @@ Expand without filler. Only add context, examples, story, proof, explanation, te
 
 Prefer "3 mistakes", "7 days", "30%", "the first 10 seconds" over "many", "a lot", "very quickly", "huge". **Never invent statistics.** Keep the user's numbers unless clearly wrong. If a figure needs verification, flag it (e.g. `[verify]`) instead of inventing a replacement. The same applies to legal, financial, medical or tax claims the user didn't provide, even without a number ("most contracts include this clause"): mark them `[verify]` and add one line outside the script saying who should confirm it (a lawyer, the actual contract, a doctor…).
 
+The same goes for claims about what a tool, app, AI model or platform feature does ("this tool predicts virality", "Instagram now shows…"). Sources often hype these. Check the claim when you can; otherwise mark it `[verify]`. If the source's claim is wrong, correct it in the script, and the correction can be the video's angle.
+
+**Other creators' numbers are theirs.** When the source quotes its creator's results ("I got 400k followers", "this reel brought 5k followers"), never put them in the user's mouth. Either attribute them ("كرييتور وصل من صفر لـ ٤٠٠ ألف…") or use `{…}` slots for the user's own numbers.
+
 ## 13. Authenticity
 
 Never make the creator sound like an AI. Banned unless genuinely fitting: "In today's fast-paced world", "Here are some valuable insights", "Let's dive into", "Unlock your potential", "Game-changing", "Whether you're…", and their Arabic equivalents ("في عالمنا اليوم", "دعونا نتعمق", "أطلق العنان لإمكانياتك"). If the user's original wording has personality, keep it. Don't replace Egyptian Arabic with formal Arabic.
@@ -264,6 +268,8 @@ Regenerating is not rewording, translating or copy-pasting the source. It is **c
 4. **Add your own value on top:** extra explanation, a clearer example, a practical step, a comparison, a counter-intuitive angle. Added facts follow §12: no invented statistics, results or stories, and legal, financial, medical or tax claims the user didn't provide get `[verify]`.
 5. **Write a new hook**, different from the source's, plus 2 alternatives (§4).
 6. **Write a different ending**: a new payoff or angle on the lesson, then the CTA.
+7. **Hidden value in the source's CTA.** Sources often hold part of the content back for a comment ("comment «power» and I'll send the last 2 words", "the prompts are at the end", "comment «scripts» for the doc"). Don't copy that promise, and never guess what was hidden. Either deliver that part in the video (writing it yourself and saying in the script it's your addition), or drop the promise. The CTA only offers what the user actually has.
+8. **Counts match.** If the source's title says a number ("10 habits") but gives fewer, the new hook uses the number the script really delivers.
 
 Outside the script, add one line on what you added and the gap you built it on. Never hand back a lightly edited copy of the source. If the user explicitly asks for a light edit only (CLEAN mode), respect that.
 
