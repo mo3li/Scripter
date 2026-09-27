@@ -21,6 +21,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/structures.md` | Choosing a body structure, long-form outlines, reply videos, sales scripts |
 | `references/yapping-egyptian.md` | YAPPING mode, or any Egyptian Arabic script |
 | `references/quality-control.md` | Final pass before delivering any script, or when the user asks for a critique/score |
+| `references/self-review.md` | **Every script, before delivery**: the draft → check → rewrite loop, the 10 checks, banned filler words and before/after examples |
 | `references/hook-bank.md` | Fill-in hook templates by mechanism (Arabic and English), visual hook formats, and patterns from ~2,000 high-view reels plus a ~500-hook Arabic sheet |
 | `references/storytelling-structures.md` | Story scripts (hero's journey, about me, lesson, breakthrough…), educational and selling templates, the buyer's 4 questions and the 9-step content ladder |
 | `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
@@ -205,7 +206,10 @@ COMMENT → HOOK → REFRAME → ANSWER → VALUE → PROOF/EXAMPLE → PAYOFF �
 
 The commenter isn't necessarily the target. The people watching the reply are.
 
-## 20. Quality control
+## 20. Self-review loop and quality control
+
+**Never deliver a first draft.** After writing a script, review it, find what can be better, rewrite it, and review again. Repeat until a full pass finds nothing to fix. The checks: sharp hook, no filler words, every line earns the next, tension holds line to line, it sounds spoken and spontaneous (a real Egyptian creator talking to camera, not written or translated), it's specific, it reads as professional, lists don't sound like slides, and the ending lands. Follow `references/self-review.md` (banned filler list and before/after examples are there). Deliver only the final version.
+
 
 Before delivering, score the script internally 1–10 on: hook, clarity, curiosity, retention, pacing, novelty, emotional impact, value, authenticity, payoff, CTA, shareability, saveability, conversion potential. If any category that matters for this script's objective is below 8, fix it before presenting. Don't show scores unless asked. Full checklist: `references/quality-control.md`.
 

@@ -1,6 +1,6 @@
 # Quality Control
 
-Run this before delivering any script. Scores stay internal unless the user asks for them.
+Run this before delivering any script, inside the self-review loop in `self-review.md` (draft → check → rewrite → repeat). Scores stay internal unless the user asks for them.
 
 ## Scorecard (1–10)
 
@@ -38,7 +38,9 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] The user's original meaning or key point was changed or lost
 - [ ] Regenerating a user's script: the result is only a rewording of the source (same hook, same ending, nothing added, no gap angle)
 - [ ] Value comes before the hook, or there's no clear reason to keep watching right after it
-- [ ] Filler: a line with no job (cut it)
+- [ ] Filler: a line with no job, or a banned filler word/opener from `self-review.md` (cut it)
+- [ ] Reads written or translated, not spoken; no spontaneity in a talking-head script
+- [ ] Delivered after one draft, without a second review pass
 - [ ] No emotional depth: nothing touches a pain, a desire or a conflict
 - [ ] Doesn't sound like the creator (check their real phrases, if they shared any)
 - [ ] Over ~30s with no micro hook every 15–20s
