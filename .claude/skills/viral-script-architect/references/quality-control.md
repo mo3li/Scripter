@@ -36,6 +36,7 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Stage directions not in [brackets]
 - [ ] Script length doesn't match the requested duration (or, with no requested duration, is longer than it needs to be, or was cut so short it lost a point or its value)
 - [ ] The user's original meaning or key point was changed or lost
+- [ ] Regenerating a user's script: the result is only a rewording of the source (same hook, same ending, nothing added, no gap angle)
 - [ ] Value comes before the hook, or there's no clear reason to keep watching right after it
 - [ ] Filler: a line with no job (cut it)
 - [ ] No emotional depth: nothing touches a pain, a desire or a conflict

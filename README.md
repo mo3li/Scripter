@@ -4,7 +4,7 @@ Claude Code skills for writing viral video scripts.
 
 ## Skills
 
-- **viral-script-architect** (`.claude/skills/viral-script-architect/`): writes, rewrites, shortens, expands and critiques scripts for TikTok, Reels, Shorts and long-form YouTube. Supports 15 modes (Clean, Viral, Yapping, Shorten, Long-form, Story, Authority, Sales, Reply, Personal Brand, Ideas, Motion, Content Plan, Diagnose, Full Package) and defaults to Egyptian Arabic for Arabic requests. Scripts have no fixed duration: each one is as short as it can be without losing meaning or value, with a hook, 2 alternative hooks and a CTA.
+- **viral-script-architect** (`.claude/skills/viral-script-architect/`): writes, rewrites, shortens, expands and critiques scripts for TikTok, Reels, Shorts and long-form YouTube. Supports 16 modes (Clean, Viral, Yapping, Shorten, Long-form, Story, Authority, Sales, Reply, Personal Brand, Ideas, Motion, Content Plan, Diagnose, Full Package, Regenerate) and defaults to Egyptian Arabic for Arabic requests. Scripts have no fixed duration: each one is as short as it can be without losing meaning or value, with a hook, 2 alternative hooks and a CTA. A script or content you send is regenerated, not reworded: same idea and information, plus added value, a new hook, a different ending and a market-gap angle.
 
 ## Usage
 
