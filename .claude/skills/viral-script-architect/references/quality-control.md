@@ -42,6 +42,9 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Doesn't sound like the creator (check their real phrases, if they shared any)
 - [ ] Over ~30s with no micro hook every 15–20s
 - [ ] A dramatic stat from a guide ("90% fail…") used as fact without a source
+- [ ] A legal, financial, medical or tax claim the user didn't provide, not marked `[verify]`
+- [ ] A first-person story or confession the user never told you (ask, or use `{…}` slots)
+- [ ] Yapping: the CTA comes before the Close the loop line
 
 ## Critique format (when the user asks for feedback on their script)
 

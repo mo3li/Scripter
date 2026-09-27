@@ -54,7 +54,7 @@ Three dependable types:
 Weak: "النهارده هنتكلم عن…" is generic and creates no question.
 Strong: "لو فيديوهاتك مش بتوقّف الناس في أول ٣ ثواني… خلاص، انتهت." is specific and creates tension.
 
-Other types to rotate: debate, myth-busting, question, desire, problem. More in `hooks.md` and `hook-bank.md`.
+Other types to rotate: debate, myth-busting, question, desire, problem. More in `hooks.md` and `hook-bank.md`. When labeling hooks, use the mechanism names from `hooks.md` (Pain ≈ Mistake or Warning, Curiosity ≈ Question, Shock ≈ Contrarian).
 
 ## 4. The script map (5 stages in order)
 
@@ -71,9 +71,13 @@ Examples by stage:
 - **Payoff openers**: "المفاجأة بقى…", "السر الحقيقي هو…", "الخلاصة…".
 
 Rules:
+- **The value line is a promise, not an agenda.** "هديك ٣ خطوات…" works; "النهارده هنتكلم عن…" doesn't. In a 30s script, skip it when the hook already promises the payoff.
 - **Hook before value, always.** Leading with the value and hooking late makes retention drop fast. Hook first, then value, keeps it rising.
 - **The best script is the clearest, not the longest.** Clarity = higher retention.
 - Strong script = clarity + logical flow + emotion + a peak moment + one clear CTA. If any stage is weak, retention starts dropping there.
+
+### Yapping and the map
+In YAPPING (structure J), the Gap is the Value stage, the Lesson is the Peak, and the CTA comes right after the Close the loop line. See `yapping-egyptian.md`.
 
 ### Alternate 5-part short: Hook → Context → Value → Payoff → CTA
 - **Context**: make the viewer feel it's about them. *"أكيد مرّ عليك يوم كامل وإنت لسه محتار تنزّل إيه."*
