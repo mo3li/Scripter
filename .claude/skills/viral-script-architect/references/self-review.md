@@ -12,6 +12,8 @@ Don't show the drafts or the check results to the user unless they ask. Deliver 
 
 ## The checks
 
+For a script adapted from a source the user sent, start the pass by checking 11–13 against the source.
+
 | # | Check | Fails when… |
 |---|---|---|
 | 1 | **Hook is sharp** | It could open any other video, it warms up before the point, or it needs the second line to make sense |
@@ -24,6 +26,9 @@ Don't show the drafts or the check results to the user unless they ask. Deliver 
 | 8 | **Professional** | Rambling, over-explaining, begging for attention, fake hype, or a list read like a slide. Confident people say it once, short, and move on |
 | 9 | **Lists don't sound like lists** | "واحد… اتنين… تلاتة…" repeated with the same sentence shape. Vary how each point enters, or drop the numbering |
 | 10 | **Ending lands** | The last line before the CTA is weaker than a line in the middle, or it just repeats the lesson |
+| 11 | **Coherent and complete** | A line doesn't follow from the one before, something is referred to that was never said, or (when adapting a source) a beat or point from the source is missing. Put the source and the script side by side and tick off every beat |
+| 12 | **Hook and lock-in are separate** | The hook is longer than a line or two, explains the whole idea, or there's no 2–3 line lock-in after it telling the viewer why to stay |
+| 13 | **Faithful to a proven source** | The hook's mechanism, the structure or the order changed without the user asking. Proven scripts get adapted, not reinvented (SKILL.md §23) |
 
 All the other rules still apply in every pass: length (§22), regenerate (§23), `[verify]` and no invented facts (§12).
 
