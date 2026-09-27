@@ -21,6 +21,10 @@ The goal is not just "viral". The goal is this chain:
 | `references/structures.md` | Choosing a body structure, long-form outlines, reply videos, sales scripts |
 | `references/yapping-egyptian.md` | YAPPING mode, or any Egyptian Arabic script |
 | `references/quality-control.md` | Final pass before delivering any script, or when the user asks for a critique/score |
+| `references/hook-bank.md` | Fill-in hook templates by mechanism (Arabic and English), visual hook formats, and patterns from ~2,500 high-view reels |
+| `references/storytelling-structures.md` | Story scripts (hero's journey, about me, lesson, breakthrough…), educational and selling templates, the buyer's 4 questions and the 9-step content ladder |
+| `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
+| `references/motion-promo.md` | Scripts for animated promos or text-on-screen videos with no one talking: beat sheets, 4–6 ideas, ≤ 5-word lines |
 
 ---
 
@@ -63,7 +67,7 @@ Rules:
 - Avoid clichés when they don't fit.
 - The spoken hook, on-screen text and first visual should work together, not repeat each other word for word.
 
-See `references/hooks.md` for formulas and Egyptian Arabic examples.
+See `references/hooks.md` for formulas and Egyptian Arabic examples, and `references/hook-bank.md` for fill-in templates, visual hooks and what the top-performing reels have in common.
 
 ## 5. Retention engine
 
@@ -172,6 +176,9 @@ If the user names a mode, use it. If not, infer the best one and say which in on
 | 8 SALES | Optimize for leads or purchases |
 | 9 REPLY | Turn a comment/criticism/question into a video (see §19) |
 | 10 PERSONAL BRAND | Deliver the idea and the creator's personality together |
+| 11 IDEAS | Turn one topic into many video ideas (see `references/idea-multiplication.md`) |
+| 12 MOTION | Beat sheet for an animated promo or text-only video (see `references/motion-promo.md`) |
+| 13 CONTENT PLAN | A sequence of videos that builds to a sale, using the 9-step ladder (see `references/storytelling-structures.md`) |
 
 Modes can be combined (e.g. YAPPING + SALES).
 
@@ -223,6 +230,10 @@ VISUAL: (only if useful)
 **Delivery:** put each final script in its own code block so the user can copy it in one go, hook included. Keep everything outside the blocks short: duration, and at most 2–3 one-line notes (e.g. fact corrections). No long analysis unless asked.
 
 When rewriting an existing script, give the improved script **first**. Don't bury it under analysis. Keep commentary to a few short lines after it (what changed and why) unless the user asks for more. Offering 2–3 alternative hooks after the script is usually worth it.
+
+**Production format (on request):** when the user asks for a shooting script, editing notes or a table, use one row per beat: `[time in seconds] | [spoken line] | [visual / on-screen text]`.
+
+**CTA ideas beyond "follow for more":** a comment keyword that gets them something the user really offers ("اكتب «عقد» وأبعتلك…"), a question that invites comments, or an ending that flows back into the first line so the video loops.
 
 Formatting the spoken script:
 - One idea per line, short lines; write for the ear, not the eye.
