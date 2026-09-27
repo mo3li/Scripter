@@ -150,7 +150,7 @@ A strong opening shot can be the hook by itself, or can stack with a spoken line
 | استنى قبل ما [فعل]، كمّل الفيديو وهتدعيلي | استنى قبل ما تحوّل العربون، كمّل الفيديو وهتدعيلي |
 | كان عندك كام سنة لما عرفت إن [معلومة]؟ | كان عندك كام سنة لما عرفت إنك تقدر تبيع شقتك قبل ما تستلمها؟ |
 
-## 8. Patterns from ~2,000 high-view reels (10 niches)
+## 8. Patterns from ~2,000 high-view reels (10 niches) plus ~500 Arabic hooks
 
 The spreadsheet covered Fitness, Travel, Beauty, Food, Business, Photography, Fashion, Real Estate, Personal Development and Social Media. Most hooks were over 1M views. These are observations, not guarantees. Views depend on the video, the account and timing, not only the hook.
 
