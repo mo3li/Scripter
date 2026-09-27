@@ -67,6 +67,8 @@ The Close brings the ending back to the hook. The mandatory CTA is one line righ
 
 ### Pre-delivery check
 
+Run these inside the self-review loop in `self-review.md`, not once.
+
 1. Did I start straight in? (no greeting, no "today we'll…")
 2. Is there something the viewer needs to know happened?
 3. Is there a real discovery (confession), not a tip?
@@ -95,11 +97,11 @@ The Close brings the ending back to the hook. The mandatory CTA is one line righ
 
 ## Egyptian spoken connectors
 
-Use them naturally and vary them; don't open every line with one.
+Use them naturally and vary them; don't open every line with one. A connector that adds no turn, reason or emphasis is filler: cut it (see `self-review.md`).
 
 | Function | Connectors |
 |---|---|
-| Starting | "بص بقى…", "خليني أقولك حاجة…", "بص، الموضوع ببساطة…", "طيب…", "أنا هقولك…" |
+| Starting | "طيب…", "بص…" (once per script at most). Avoid announcing openers like "خليني أقولك حاجة…" or "الموضوع ببساطة…": they're on the banned filler list in `self-review.md` |
 | Adding / continuing | "وكمان…", "والأهم بقى…", "وخد بالك…", "ومش بس كده…" |
 | Turning point | "بس هنا بقى المشكلة…", "وهنا بقى الموضوع بيقلب…", "بس استنى…", "لأ، والأغرب…" |
 | Explaining why | "عشان…", "ليه؟ عشان…", "والسبب بسيط…", "يعني إيه الكلام ده؟" |
