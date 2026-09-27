@@ -21,7 +21,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/structures.md` | Choosing a body structure, long-form outlines, reply videos, sales scripts |
 | `references/yapping-egyptian.md` | YAPPING mode, or any Egyptian Arabic script |
 | `references/quality-control.md` | Final pass before delivering any script, or when the user asks for a critique/score |
-| `references/hook-bank.md` | Fill-in hook templates by mechanism (Arabic and English), visual hook formats, and patterns from ~2,500 high-view reels |
+| `references/hook-bank.md` | Fill-in hook templates by mechanism (Arabic and English), visual hook formats, and patterns from ~2,000 high-view reels plus a ~500-hook Arabic sheet |
 | `references/storytelling-structures.md` | Story scripts (hero's journey, about me, lesson, breakthrough…), educational and selling templates, the buyer's 4 questions and the 9-step content ladder |
 | `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
 | `references/motion-promo.md` | Scripts for animated promos or text-on-screen videos with no one talking: beat sheets, 4–6 ideas, ≤ 5-word lines |

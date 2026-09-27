@@ -62,7 +62,7 @@ Callback to the hook's words, image, or question, so the ending feels complete a
 4. Can I say the lesson in one sentence?
 5. Does the ending come back to the beginning?
 
-### Full example (Egyptian, ~35s)
+### Full example (Egyptian, ~25s)
 
 > [HOOK] بقالي ٣ أيام بفكر في حاجة… وكان لازم حد يقولها.
 > [GAP] أنا كنت بنزّل بوستات كل يوم. متوقع إن الناس هتيجي تسأل عن الخدمة.
@@ -71,6 +71,7 @@ Callback to the hook's words, image, or question, so the ending feels complete a
 > ولا بوست فيهم كان بيقول أنا ببيع إيه أصلًا.
 > [LESSON] أنا كنت ببيع حاجة الناس ماكانتش تعرف إنها موجودة.
 > [CLOSE] خلاص… قلتها.
+> [CTA] لو حصلتلك قبل كده، اكتبلي "حصلت" في الكومنتات.
 
 *(The numbers here are placeholders from the example; in a real script use the creator's own facts.)*
 
