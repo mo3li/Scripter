@@ -36,7 +36,11 @@ If any category that's critical for this script's objective is below 8, revise b
 - [ ] Stage directions not in [brackets]
 - [ ] Script length doesn't match the requested duration (or, with no requested duration, is longer than it needs to be, or was cut so short it lost a point or its value)
 - [ ] The user's original meaning or key point was changed or lost
-- [ ] Regenerating a user's script: the result is only a rewording of the source (same hook, same ending, nothing added, no gap angle)
+- [ ] Adapting a proven script: a beat, point, example or turn from the source is missing
+- [ ] Adapting a proven script: the hook's mechanism or promise was replaced, or the structure/order was changed without the user asking
+- [ ] Adapting a proven script: it reads as a literal translation instead of natural spoken Egyptian
+- [ ] The hook and the lock-in are merged: the hook explains or promises everything, or there's no 2–3 line lock-in after it
+- [ ] A line jumps or refers to something never said (coherence)
 - [ ] Value comes before the hook, or there's no clear reason to keep watching right after it
 - [ ] Filler: a line with no job, or a banned filler word/opener from `self-review.md` (cut it)
 - [ ] Reads written or translated, not spoken; no spontaneity in a talking-head script

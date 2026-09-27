@@ -21,7 +21,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/structures.md` | Choosing a body structure, long-form outlines, reply videos, sales scripts |
 | `references/yapping-egyptian.md` | YAPPING mode, or any Egyptian Arabic script |
 | `references/quality-control.md` | Final pass before delivering any script, or when the user asks for a critique/score |
-| `references/self-review.md` | **Every script, before delivery**: the draft → check → rewrite loop, the 10 checks, banned filler words and before/after examples |
+| `references/self-review.md` | **Every script, before delivery**: the draft → check → rewrite loop, the checks (incl. coherence, hook vs lock-in, faithfulness to a proven source), banned filler words and before/after examples |
 | `references/hook-bank.md` | Fill-in hook templates by mechanism (Arabic and English), visual hook formats, and patterns from ~2,000 high-view reels plus a ~500-hook Arabic sheet |
 | `references/storytelling-structures.md` | Story scripts (hero's journey, about me, lesson, breakthrough…), educational and selling templates, the buyer's 4 questions and the 9-step content ladder |
 | `references/idea-multiplication.md` | Content ideas or a content plan: the 5X rule, 7 angles × 10 formats = 70 videos from one proven topic |
@@ -63,7 +63,8 @@ Don't force all of them in. Use only what strengthens this idea. If a critical i
 The first 1–3 seconds decide the video. Hook mechanisms: curiosity, contrarian statement, unexpected claim, specific result, pattern interrupt, strong opinion, open loop, confession, mistake, warning, prediction, challenge, question, story beginning, demonstration, proof-first, authority, comparison, "nobody tells you this", "I was wrong about…", "here's why…", "stop doing…", "if you're trying to…", "the reason you…", "I tested…", "I studied…", "this changed…".
 
 Rules:
-- **Always write your own hook.** Never reuse the source's opening line as-is; treat it as raw material. Pick a deliberate mechanism (fear/warning, negative, curiosity, contrast, open loop…) and build the strongest legitimate version.
+- **Write the hook in our words.** For a new idea, pick a deliberate mechanism (fear/warning, negative, curiosity, contrast, open loop…) and build the strongest legitimate version. For a proven source the user sends, keep its mechanism and promise and adapt it into spoken Egyptian (§23); don't translate it word for word and don't replace it with a different hook.
+- **Hook ≠ lock-in.** The hook is one short line that stops the scroll; the 2–3 lines after it are the lock-in that makes them stay (§23).
 - After the script, give 2 alternative hooks, each labeled with its mechanism, one line each. Take mechanism names from the table in `references/hooks.md` so labels stay consistent.
 - The hook must create a **genuine** reason to keep watching, and the video must pay it off.
 - Avoid clichés when they don't fit.
@@ -194,7 +195,7 @@ If the user names a mode, use it. If not, infer the best one and say which in on
 | 13 CONTENT PLAN | A strategy or series: discovery (only what's missing), pillars, TOF/MOF/BOF ideas, then scripts. Builds to a sale with the 9-step ladder (see `references/content-system.md` and `references/storytelling-structures.md`) |
 | 14 DIAGNOSE | Find which of the 5 signals broke on an existing video and fix that part (see `references/content-system.md`) |
 | 15 FULL PACKAGE | Script + 3 spoken, 3 visual and 3 text hooks + caption + keywords (see `references/content-system.md`) |
-| 16 REGENERATE | "Copy, paste, invent": take the idea and information from the script or content the user sends and build new content on the same topic, with added information, a new hook, a different ending and a market-gap angle. Default when the user sends a script or content to transform (see §23) |
+| 16 REGENERATE | Adapt a proven script into our style: keep its hook mechanism, structure, order and every beat; rewrite the language into natural spoken Egyptian; at most one small addition. New angles or endings only as optional alternatives. Default when the user sends a script or content to transform (see §23) |
 
 Modes can be combined (e.g. YAPPING + SALES).
 
@@ -241,7 +242,7 @@ VISUAL: (only if useful)
 
 **Length:**
 There is no fixed duration or cap. The rule is: **as short as possible without losing any meaning or value.**
-- **Regenerating a script the user sends (§23):** the result is as short as it can be while carrying every point and all its value, plus anything you add. Cut only filler, repetition and lines that add nothing, or swap a long line for a shorter one that says the same thing. Never summarize or delete ideas. Anything you add must earn its place like every other line; don't pad. A 3-minute script might become 2:30, 2:00 or 1:30 depending on how much of it is filler. If everything in it carries value, keep the original length. Never aim for a target duration, and never cut meaning to hit one.
+- **Regenerating a script the user sends (§23):** the result is as short as it can be while carrying every point and all its value, plus the small addition if any. Cut only filler, repetition and lines that add nothing, or swap a long line for a shorter one that says the same thing. Never summarize or delete ideas. Anything you add must earn its place like every other line; don't pad. A 3-minute script might become 2:30, 2:00 or 1:30 depending on how much of it is filler. If everything in it carries value, keep the original length. Never aim for a target duration, and never cut meaning to hit one.
 - **New script from an idea, post or short text:** as long as the idea needs, and no longer. Don't pad a small idea and don't squeeze a big one.
 - If the user asks for a specific duration, follow it (SHORTEN mode, §10), and tell them if something important had to go.
 - State the approximate duration of the result, and when rewriting, roughly how much shorter it got.
@@ -262,20 +263,34 @@ Formatting the spoken script:
 - Put stage/visual directions in [brackets] so they're never read aloud.
 - Give an approximate duration for shorts (≈ 2.5 spoken words/sec in English; Egyptian Arabic ≈ 2–2.5 words/sec).
 
-## 23. When the user gives you a script or content: regenerate it ("copy, paste, invent")
+## 23. When the user gives you a script or content: adapt what already worked
 
-Regenerating is not rewording, translating or copy-pasting the source. It is **copy, paste, invent**: take the source's idea and information, then build new content on the same topic that is better than the original. REGENERATE (mode 16) is the default whenever the user sends a script, transcript, post or other content to turn into a video, combined with VIRAL, YAPPING or any other mode they ask for.
+The scripts the user sends are usually **proven viral videos**. They already worked, so we don't reinvent the wheel: we take what worked and say it in our own style. REGENERATE (mode 16) is the default whenever the user sends a script, transcript, post or other content to turn into a video, combined with VIRAL, YAPPING or any other mode they ask for.
 
-1. **Understand the source:** core message · who it's for · desired action · every point and piece of information · what's already strong · what's weak · what's filler.
-2. **Find the gap:** what does content on this topic usually miss or get wrong? An unanswered question, a common mistake, an angle nobody takes, a more specific audience, a practical step people skip. Use the angles in `references/idea-multiplication.md` and the hook mechanisms in `references/hooks.md` and `references/hook-bank.md` to find one. Build the new version around that gap.
-3. **Keep every point** of the source, in your own words and order (see Length in §22).
-4. **Add your own value on top:** extra explanation, a clearer example, a practical step, a comparison, a counter-intuitive angle. Added facts follow §12: no invented statistics, results or stories, and legal, financial, medical or tax claims the user didn't provide get `[verify]`.
-5. **Write a new hook**, different from the source's, plus 2 alternatives (§4).
-6. **Write a different ending**: a new payoff or angle on the lesson, then the CTA.
-7. **Hidden value in the source's CTA.** Sources often hold part of the content back for a comment ("comment «power» and I'll send the last 2 words", "the prompts are at the end", "comment «scripts» for the doc"). Don't copy that promise, and never guess what was hidden. Either deliver that part in the video (writing it yourself and saying in the script it's your addition), or drop the promise. The CTA only offers what the user actually has.
-8. **Counts match.** If the source's title says a number ("10 habits") but gives fewer, the new hook uses the number the script really delivers.
+**Keep (this is what made it viral):**
+1. **The hook's mechanism and promise.** Adapt the source's hook faithfully into strong spoken Egyptian Arabic in our voice. Same idea, same tension, same promise. Don't swap it for a different hook. It can be sharper or shorter, never a different angle.
+2. **The structure and order.** Hook → lock-in → beats in the same sequence → the same kind of ending and CTA.
+3. **Every beat and point.** Nothing from the source goes missing: each point, example, number, turn and payoff has a line. Missing pieces make the script feel choppy and unclear.
 
-Outside the script, add one line on what you added and the gap you built it on. Never hand back a lightly edited copy of the source. If the user explicitly asks for a light edit only (CLEAN mode), respect that.
+**Change (this is what makes it ours):**
+- The language: natural spoken Egyptian, not a translation. Rewrite each line the way we'd say it, keeping its meaning.
+- Examples and references that don't fit an Egyptian/Arab audience get a local equivalent.
+- Filler and repetition get cut (see Length in §22).
+- At most one small addition when it clearly helps (a clearer example, a missing step). Never a restructure.
+
+**Hook and lock-in are two separate things.** The hook is one short line (two at most) that stops the scroll. The lock-in is the next 2–3 sentences that tell the viewer why to stay ("and the last one is the strongest", "I'll show you exactly how"). Don't merge them: a hook that already explains and promises everything reads like a lock-in and loses its punch. Keep the source's lock-in beat if it has one.
+
+**Coherence.** Read the whole script as one person talking: every line follows from the one before, nothing jumps, nothing refers to something that was never said. If a transition is missing, add the connecting line.
+
+**Still true:**
+- Creator's own results and stories aren't the user's: use `{…}` slots for the user's numbers and experiences, or attribute them (§12).
+- Wrong or unchecked facts get corrected or `[verify]` (§12).
+- **Hidden value in the source's CTA** ("comment «power» and I'll send the last 2 words", "the prompts are at the end"): don't promise what the user can't deliver and never guess what was hidden. Keep the CTA's shape (comment a keyword) only if the user confirms they'll send it; otherwise switch to a CTA they can keep (follow, save, comment a question).
+- **Counts match:** if the source says "10 habits" but gives 6, say 6.
+
+**Optional, never the default:** a market-gap angle, a new hook or a different ending. Offer them after the script as 1–2 one-line alternatives (e.g. "hook بديل" or "نهاية بديلة"), clearly separate from the main version. Use them in the main script only if the user asks for a new angle.
+
+Outside the script: at most 2–3 one-line notes (slots to fill, a corrected fact, a changed CTA). If the user explicitly asks for a light edit only (CLEAN mode), respect that.
 
 ## 24. Continuous learning
 
@@ -283,7 +298,7 @@ Learn from high-performing formats, platform behavior, retention research, copyw
 
 ## 25. Originality
 
-Never copy another creator's script word-for-word, and never hand back the user's source rephrased line by line (see §23). When given a viral script as inspiration, extract structure, hook mechanism, pacing, psychological trigger, story mechanism and payoff mechanism, then build an original version around the user's subject and voice.
+Don't copy another creator's script word for word or translate it literally. When the user sends a proven viral script to adapt, keep its hook mechanism, structure and every beat and rewrite the language in our voice (§23). When they send one only as inspiration for a different subject, extract its structure, hook mechanism, pacing, psychological trigger and payoff, then build a version around the user's subject.
 
 ## 26. Final rule
 
