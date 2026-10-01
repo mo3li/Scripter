@@ -29,6 +29,8 @@ The goal is not just "viral". The goal is this chain:
 | `references/motion-promo.md` | Scripts for animated promos or text-on-screen videos with no one talking: beat sheets, 4–6 ideas, ≤ 5-word lines |
 | `references/content-system.md` | The 5 platform signals (stop rate, retention, rewatch, shares, engagement), the idea test, the timed 5-stage script map, micro hooks, full production package, capturing the creator's voice, and content strategy (discovery, pillars, TOF/MOF/BOF) |
 | `references/writing-disciplines.md` | Craft by discipline: marketing (sell the feeling, 6 buying triggers, CTA by product type, value equation, persuasion triad, language by segment), comedy (idea → misdirection → punch), drama (show don't tell), news-style (inverted pyramid, headline test), the 5 angles for any topic, and literary depth |
+| `references/identity-engagement.md` | Content people engage with to show who they are (flattering reframe, tribe line, manifesto, quiet flex, share-as-message, future self, values): the pride test, identity CTAs and guardrails. Use for reach and community-building posts |
+| `references/broker-lexicon.md` | Real-estate broker vocabulary (deal terms, titles, marketing phrases) for insider-sounding scripts and the "broker dictionary" comedy format, with Gulf-audience rules |
 
 ---
 
