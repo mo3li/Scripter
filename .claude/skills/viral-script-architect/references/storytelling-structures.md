@@ -94,3 +94,14 @@ People buy after reaching nine internal agreements, in order. Each piece of cont
 Use this ladder when the user asks for a content plan, a series, or a sales campaign: map each video to one rung, in order. The sale then becomes a natural last step.
 
 Truth rule: steps 6–9 must use real results and honest urgency. Never invent case studies, deadlines or scarcity.
+
+### Why stories sell now, and the order that makes it work
+Trust online is low: anyone can claim anything, and many people have bought bad services before. So people guard their decisions and avoid anyone who feels like they're selling. They still want to buy, because the need is real. Stories do the selling that pitches can't: an offer answers one question, while four stories answer the four buyer questions above. Any question left unanswered comes back as "I'll think about it".
+
+Build in this order. Each layer rests on the one before:
+1. **Message**: what the creator truly believes, expressed through their work and content.
+2. **Offer**: a service with a real result, its value laid out clearly (a presentation or proposal).
+3. **Content**: the creator's stories and clients' stories, tied to their values, philosophy and principles. For Mohamed, that's faith and ambition together (see `brand-voice.md`).
+4. **Sale**: done on principles and values, at a price that matches the value. Belief is built before the call, so the call confirms instead of convincing.
+
+When writing a sales or BOF script, check which layer is missing. Content can't fix a missing message or a vague offer. Say so instead of writing a harder pitch.
