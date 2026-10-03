@@ -31,6 +31,7 @@ The goal is not just "viral". The goal is this chain:
 | `references/writing-disciplines.md` | Craft by discipline: marketing (sell the feeling, 6 buying triggers, CTA by product type, value equation, persuasion triad, language by segment), comedy (idea → misdirection → punch), drama (show don't tell), news-style (inverted pyramid, headline test), the 5 angles for any topic, and literary depth |
 | `references/identity-engagement.md` | Content people engage with to show who they are (flattering reframe, tribe line, manifesto, quiet flex, share-as-message, future self, values): the pride test, identity CTAs and guardrails. Use for reach and community-building posts |
 | `references/broker-lexicon.md` | Real-estate broker vocabulary (deal terms, titles, marketing phrases) for insider-sounding scripts and the "broker dictionary" comedy format, with Gulf-audience rules |
+| `references/niche-positioning.md` | Broker positioning: own one price band and area (the 4 lenses, Dubai deal numbers by band, positioning line, what changes in bio and content, 3 weekly numbers). Use for content plans, bios and ideas for brokers |
 
 ---
 
